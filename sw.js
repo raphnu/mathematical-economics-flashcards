@@ -2,7 +2,7 @@
 // background, so a new upload appears the second time the app is opened.
 // VERSION is filled in by build_app.py from a hash of the app files, so every rebuild
 // with changed content gets a fresh cache automatically.
-const VERSION = "cards-2cbff5162a";
+const VERSION = "cards-33dcacb465";
 const FILES = ["./", "index.html", "styles.css", "app.js", "deck.js", "manifest.webmanifest", "icons/apple-touch-icon.png", "icons/icon-192.png", "icons/icon-512.png"];
 const CDN = "https://cdn.jsdelivr.net/";
 

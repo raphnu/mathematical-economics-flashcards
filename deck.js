@@ -8,7 +8,8 @@ window.DECK = {
   "iconColor": "#7a3fc4",
   "lang": "en",
   "description": "Leitner flashcards for every Part I item of the Mathematical Economics past exams (ISEG).",
-  "answerLabel": "Answer"
+  "answerLabel": "Answer",
+  "url": "https://raphnu.github.io/mathematical-economics-flashcards/"
  },
  "settings": {
   "intervals": [
